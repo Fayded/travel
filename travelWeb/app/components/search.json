@@ -1,0 +1,60 @@
+{
+		"results": {
+				"Allison": {
+						"restaurants":[{
+								"Vortex": {
+										"selected": true,
+										"booked": false,
+										"likes": 10,
+										"dislikes": 20,
+										"loves": 10,
+										"description": "Vortex is the jam"
+								},
+								"Rias Bluebird": {
+										"selected": false,
+										"booked": false,
+										"likes": 20,
+										"dislikes": 40,
+										"loves": 10,
+										"description": "Ria's is the jam"
+								}
+						}],
+						"lodging": [{
+								"Mariott Savannah": {
+										"selected": false,
+										"booked": false,
+										"likes": 100,
+										"dislikes": 20,
+										"loves": 4,
+										"description": "Marriot is the jam"
+								},
+								"Campbell House": {
+										"selected": false,
+										"booked": false,
+										"likes": 44,
+										"dislikes": 24,
+										"loves": 42,
+										"description": "Campbell House is the jam"
+								}
+						}],
+						"flights": [{
+								"Delta 414": {
+										"selected": true,
+										"booked": false,
+										"likes": 10,
+										"dislikes": 44,
+										"loves": 5,
+										"description": "Delta 414 is the jam"
+								},
+								"Delta 204": {
+										"selected": true,
+										"booked": true,
+										"likes": 15,
+										"dislikes": 43,
+										"loves": 2,
+										"description": "Delta 204 is the jam"
+								}
+						}]
+				}
+		}
+}
